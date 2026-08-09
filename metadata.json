@@ -1,0 +1,10 @@
+{
+  "name": "Lumos Screen Recorder",
+  "description": "A professional, free-to-use screen and webcam recorder with autosave, crash recovery, and integrated video editing tools. Features local processing for privacy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": []
+}
